@@ -11,6 +11,7 @@
  - https://www.npmjs.com/package/@y0c/react-datepicker/
  - https://github.com/angeldelacruzdev/react-modal/
  - https://www.npmjs.com/package/query-string/
+ - https://tailwindcss.com/
 
 
 
