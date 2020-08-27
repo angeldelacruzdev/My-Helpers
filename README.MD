@@ -18,6 +18,7 @@ Así tenemos que perder tiempo creandolos!
  8. [https://www.digitalocean.com/](https://www.digitalocean.com/)
  9. [https://www.npmjs.com/package/@y0c/react-datepicker/](https://www.npmjs.com/package/@y0c/react-datepicker/)
  10.[https://github.com/angeldelacruzdev/react-modal/](https://github.com/angeldelacruzdev/react-modal/)
+ 
  11.[https://www.npmjs.com/package/query-string/](https://www.npmjs.com/package/query-string/)
 
 
