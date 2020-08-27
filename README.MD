@@ -12,7 +12,7 @@
  - https://github.com/angeldelacruzdev/react-modal/
  - https://www.npmjs.com/package/query-string/
  - https://tailwindcss.com/
-
+ - https://material-ui.com/getting-started/installation/
 
 
 ## Comando para crear un proyecto de ReactJS,
