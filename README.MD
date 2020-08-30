@@ -13,7 +13,7 @@
  - https://www.npmjs.com/package/query-string/
  - https://tailwindcss.com/
  - https://material-ui.com/getting-started/installation/
-
+ - https://github.com/jscottsmith/react-scroll-parallax/tree/v1
 
 ## Comando para crear un proyecto de ReactJS,
 
