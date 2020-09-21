@@ -19,3 +19,18 @@
 
     npx create-react-app [name app]
 
+## Preparar un servidor con nginx
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es
+- https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04-es
+
+## Node Ser ver en producción
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04-es
+
+## Seguridad en tu servidor 
+
+- https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04
+
+## Preparar sever ngix con php
+- https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04-quickstart-es
