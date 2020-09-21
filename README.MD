@@ -24,7 +24,7 @@
 - https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es
 - https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04-es
 
-## Node Ser ver en producción
+## Node Server en producción
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04-es
 
 ## Seguridad en tu servidor 
