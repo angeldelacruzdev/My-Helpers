@@ -14,6 +14,9 @@
  - https://tailwindcss.com/
  - https://material-ui.com/getting-started/installation/
  - https://github.com/jscottsmith/react-scroll-parallax/tree/v1
+ - https://www.react-reveal.com/
+ - https://react-hook-form.com/get-started
+ - https://www.react-spring.io/
 
 ## Comando para crear un proyecto de ReactJS,
 
