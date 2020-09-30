@@ -34,6 +34,7 @@
 
 - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04
+- https://www.digitalocean.com/community/tutorials/how-to-mitigate-ddos-attacks-against-your-website-with-cloudflare
 
 ## Preparar sever ngix con php
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04-quickstart-es
