@@ -18,6 +18,7 @@
  - https://react-hook-form.com/get-started
  - https://www.react-spring.io/
  - https://www.npmjs.com/package/regenerator-runtime
+ - https://nodemailer.com/about/
 
 ## Comando para crear un proyecto de ReactJS,
 
