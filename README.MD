@@ -11,7 +11,7 @@
  - https://www.npmjs.com/package/@y0c/react-datepicker/
  - https://github.com/angeldelacruzdev/react-modal/
  - https://www.npmjs.com/package/query-string/
- - https://tailwindcss.com/
+ - https://tailwindcss.com/ o https://v5.getbootstrap.com/
  - https://material-ui.com/getting-started/installation/
  - https://github.com/jscottsmith/react-scroll-parallax/tree/v1
  - https://www.react-reveal.com/
