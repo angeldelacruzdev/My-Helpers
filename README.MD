@@ -42,3 +42,7 @@
 
 ## Preparar sever ngix con php
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04-quickstart-es
+
+## Instalaciones de gestores de base de datos
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
