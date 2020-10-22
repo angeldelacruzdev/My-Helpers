@@ -33,6 +33,7 @@
 
 ## Node Server en producción
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04-es
+- https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
 
 ## Seguridad en tu servidor 
 
