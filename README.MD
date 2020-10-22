@@ -20,6 +20,7 @@
  - https://www.npmjs.com/package/regenerator-runtime
  - https://nodemailer.com/about/
  - https://undraw.co/illustrations
+ - https://www.digitalocean.com/community/tutorials/nodejs-how-to-use__dirname
 
 ## Comando para crear un proyecto de ReactJS,
 
