@@ -19,6 +19,7 @@
  - https://www.react-spring.io/
  - https://www.npmjs.com/package/regenerator-runtime
  - https://nodemailer.com/about/
+ - https://undraw.co/illustrations
 
 ## Comando para crear un proyecto de ReactJS,
 
