@@ -21,6 +21,9 @@
  - https://nodemailer.com/about/
  - https://undraw.co/illustrations
  - https://www.digitalocean.com/community/tutorials/nodejs-how-to-use__dirname
+ - https://iradesign.io/
+ - https://icons8.com/illustrations
+ - https://www.humaaans.com/
 
 ## Comando para crear un proyecto de ReactJS,
 
