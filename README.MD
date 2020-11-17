@@ -54,5 +54,9 @@
 ## Ayuda para actualizar los paquetes
 
 `npm i -g npm-check-updates`
+
+
 `ncu -u`
+
+
 `npm install`
