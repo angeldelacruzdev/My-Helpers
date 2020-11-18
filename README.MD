@@ -51,6 +51,11 @@
 
 - https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
 
+## XRP documentation
+
+- https://xrpl.org/get-started-with-rippleapi-for-javascript.html
+- https://xrpl.org/rippleapi-reference.html
+
 ## Ayuda para actualizar los paquetes
 
 `npm i -g npm-check-updates`
