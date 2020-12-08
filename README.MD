@@ -65,3 +65,5 @@
 
 
 `npm install`
+
+`npm uninstall <package-name>`
