@@ -25,6 +25,7 @@
  - https://icons8.com/illustrations
  - https://www.humaaans.com/
  - https://chakra-ui.com/
+ - https://github.com/casesandberg/react-color
  
 
 ## Comando para crear un proyecto de ReactJS,
