@@ -27,6 +27,7 @@
  - https://chakra-ui.com/
  - https://github.com/casesandberg/react-color
  - https://www.npmjs.com/package/@slynova/flydrive-s3 - Para subir archivos al Space de DO
+ - https://react-hot-toast.com - Libreria para notificaciones
  
 
 ## Comando para crear un proyecto de ReactJS,
