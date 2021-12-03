@@ -28,7 +28,7 @@
  - https://github.com/casesandberg/react-color
  - https://www.npmjs.com/package/@slynova/flydrive-s3 - Para subir archivos al Space de DO
  - https://react-hot-toast.com - Libreria para notificaciones
- 
+ - https://greensock.com/3 - animaciones
 
 ## Comando para crear un proyecto de ReactJS,
 
