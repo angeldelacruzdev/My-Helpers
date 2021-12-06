@@ -29,6 +29,7 @@
  - https://www.npmjs.com/package/@slynova/flydrive-s3 - Para subir archivos al Space de DO
  - https://react-hot-toast.com - Libreria para notificaciones
  - https://greensock.com/3 - animaciones
+ - https://ant.design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 
 ## Comando para crear un proyecto de ReactJS,
 
