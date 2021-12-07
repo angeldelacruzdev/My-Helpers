@@ -30,6 +30,7 @@
  - https://react-hot-toast.com - Libreria para notificaciones
  - https://greensock.com/3 - animaciones
  - https://ant.design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
+ - https://freeicons.io - Available in PNG, SVG, EPS, PSD and BASE 64 formats.
 
 ## Comando para crear un proyecto de ReactJS,
 
