@@ -31,6 +31,7 @@
  - https://greensock.com/3 - animaciones
  - https://ant.design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
  - https://freeicons.io - Available in PNG, SVG, EPS, PSD and BASE 64 formats.
+ - https://www.npmjs.com/package/react-horizontal-scrolling-menu - This is a horizontal scrolling menu component for React.
 
 ## Comando para crear un proyecto de ReactJS,
 
