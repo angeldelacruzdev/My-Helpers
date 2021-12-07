@@ -32,6 +32,7 @@
  - https://ant.design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
  - https://freeicons.io - Available in PNG, SVG, EPS, PSD and BASE 64 formats.
  - https://www.npmjs.com/package/react-horizontal-scrolling-menu - This is a horizontal scrolling menu component for React.
+ - npm install react-icons --save - Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 
 ## Comando para crear un proyecto de ReactJS,
 
