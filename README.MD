@@ -32,6 +32,7 @@
  - https://freeicons.io - Available in PNG, SVG, EPS, PSD and BASE 64 formats.
  - https://www.npmjs.com/package/react-horizontal-scrolling-menu - This is a horizontal scrolling menu component for React.
  - npm install react-icons --save - Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+ - https://getwaves.io/ - Make some waves!
 
 ## Para React Native
 - https://github.com/ammarahm-ed/react-native-actions-sheet - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
