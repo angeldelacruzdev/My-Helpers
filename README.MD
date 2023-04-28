@@ -38,6 +38,7 @@
  - https://v2.dinerojs.com/docs - Para manejar dinero.
  - https://swiperjs.com/demos#effect-fade - Swiper 
  - https://www.framer.com/docs/introduction - Motion
+ - https://notiz.dev/blog/type-safe-file-uploads - 
 
 ## Para React Native
 - https://github.com/ammarahm-ed/react-native-actions-sheet - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
